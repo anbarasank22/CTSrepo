@@ -1,5 +1,5 @@
-this is my first jenkins file for this project
-welcome jenkisnjob
+ithis is my first jenkins file for this project
+welcome jenkisnjob today date is 19th may2024
 pipeline {
     agent any {
         steps {
